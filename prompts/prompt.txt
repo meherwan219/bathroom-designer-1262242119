@@ -1,0 +1,146 @@
+------ prompt 1 given to cursor -------
+You are now implementing the KOHLER AI Bathroom Designer & Planner according to the architecture you just produced.
+
+Do NOT redesign the architecture unless you discover a concrete technical contradiction. Follow the existing architecture as the source of truth.
+
+Start with **Phase 0 — Project Bootstrap** only.
+
+### Goals
+
+Set up a clean, runnable monorepo with:
+
+* Next.js App Router
+* React
+* TypeScript
+* Tailwind CSS
+* FastAPI
+* Python 3.10+
+* PostgreSQL
+* Docker Compose
+* Git
+* Clear separation between frontend, backend, data, and shared contracts
+
+### Required structure
+
+Create:
+
+apps/
+web/
+api/
+
+packages/
+shared-types/
+
+data/
+catalog/
+
+docs/
+
+docker-compose.yml
+README.md
+
+For the FastAPI backend, follow the architecture:
+
+apps/api/app/
+main.py
+routers/
+designs.py
+catalog.py
+chat.py
+layout.py
+engines/
+constraints/
+recommend/
+layout/
+validate/
+ai/
+intent.py
+rag.py
+modify.py
+prompts/
+models/
+schemas/
+seed/
+
+Keep deterministic engines independent from FastAPI so they can later be unit-tested without HTTP.
+
+### Phase 0 implementation
+
+1. Initialize the Next.js frontend.
+2. Initialize the FastAPI backend.
+3. Create Docker Compose with PostgreSQL.
+4. Add environment-variable configuration using `.env.example`.
+5. Add a basic `/health` endpoint.
+6. Add basic frontend routing:
+
+   * `/`
+   * `/planner`
+7. Create a very basic planner shell containing placeholders for:
+
+   * IntakePanel
+   * ChatDock
+   * CanvasStage
+   * ConfigurationRail
+   * IssueList
+8. Create the initial Pydantic schemas for:
+
+   * DesignSpec
+   * DesignSpecDelta
+   * LayoutIR
+   * Product
+   * DesignResult
+9. Create the initial API router structure.
+10. Create the catalog directory and a small clearly-labelled MOCK catalog dataset for development only.
+11. Do NOT invent real KOHLER product specifications and do not present mock products as real KOHLER products.
+12. Add basic backend tests and verify `/health`.
+13. Add a README explaining how to run the project locally.
+
+### Important constraints
+
+* Do NOT implement the recommendation algorithm yet.
+* Do NOT implement the constraint solver yet.
+* Do NOT implement RAG yet.
+* Do NOT implement vision yet.
+* Do NOT implement 3D yet.
+* Do NOT build a chatbot yet.
+* Do NOT add authentication.
+* Do NOT over-engineer the project.
+
+The purpose of this phase is to create a clean foundation that we can build on in later phases.
+
+### Verification
+
+After implementation:
+
+1. Install dependencies.
+2. Start the required services.
+3. Verify the FastAPI `/health` endpoint.
+4. Verify the Next.js application starts successfully.
+5. Run backend tests.
+6. Check for TypeScript/build errors.
+7. Fix any errors you introduced.
+8. Give me a concise summary of:
+
+   * files created
+   * dependencies installed
+   * commands used
+   * tests run
+   * anything that remains unresolved
+
+Do not move to Phase 1 until Phase 0 is working.
+
+---------
+Output - plan.md attached in the folder
+----------
+---------
+
+
+-------- prompt 2 given to claude ---
+I have attached one plan.md file use that to have a clear concept of architecture and start with the phase 0 of same.
+--------
+Output - kohler mvp using phsae 1
+--------
+
+----------------------------------
+next prompts were similar stating to start the next particular phases
+

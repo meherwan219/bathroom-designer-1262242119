@@ -1,0 +1,20 @@
+[
+  {"product_id": "t1", "other_id": "a2", "relation": "requires", "notes": "300mm rough-in floor toilet needs the matching flange kit"},
+  {"product_id": "t2", "other_id": "a2", "relation": "requires", "notes": "300mm rough-in floor toilet needs the matching flange kit"},
+  {"product_id": "t4", "other_id": "a2", "relation": "requires", "notes": "300mm rough-in floor toilet needs the matching flange kit"},
+  {"product_id": "t5", "other_id": "a2", "relation": "requires", "notes": "300mm rough-in floor toilet needs the matching flange kit"},
+  {"product_id": "t3", "other_id": "a4", "relation": "requires", "notes": "Wall-hung toilet needs an in-wall carrier system"},
+
+  {"product_id": "t1", "other_id": "a3", "relation": "incompatible", "notes": "Wrong rough-in: this kit is for 400mm, toilet is 300mm"},
+  {"product_id": "t2", "other_id": "a3", "relation": "incompatible", "notes": "Wrong rough-in: this kit is for 400mm, toilet is 300mm"},
+  {"product_id": "t4", "other_id": "a3", "relation": "incompatible", "notes": "Wrong rough-in: this kit is for 400mm, toilet is 300mm"},
+  {"product_id": "t5", "other_id": "a3", "relation": "incompatible", "notes": "Wrong rough-in: this kit is for 400mm, toilet is 300mm"},
+
+  {"product_id": "s3", "other_id": "s1", "relation": "requires", "notes": "Rain shower head system needs a shower base; s1 is the default pairing"},
+  {"product_id": "s5", "other_id": "s6", "relation": "requires", "notes": "Body spray system needs a spacious shower base; s6 is the default pairing"},
+
+  {"product_id": "f1", "other_id": "s1", "relation": "finish_match", "notes": "Chrome faucet trim matches Elmbrook chrome shower trim"},
+  {"product_id": "f1", "other_id": "s2", "relation": "finish_match", "notes": "Chrome faucet trim matches Elmbrook chrome shower trim"},
+  {"product_id": "f5", "other_id": "s1", "relation": "finish_match", "notes": "Chrome faucet trim matches Elmbrook chrome shower trim"},
+  {"product_id": "f3", "other_id": "v6", "relation": "finish_match", "notes": "Classic nickel faucet pairs with classic pedestal sink styling"}
+]

@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "t1",
+    "sku": "K-3814-IN-0",
+    "name": "Cimarron Comfort Height Toilet",
+    "category": "toilet",
+    "family": "Cimarron",
+    "collection": "Cimarron",
+    "width_mm": 400,
+    "depth_mm": 700,
+    "height_mm": 810,
+    "price_inr": 32500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 4.8,
+    "finish": "white",
+    "style_tags": [
+      "classic",
+      "comfort",
+      "eco"
+    ],
+    "sustainability_score": 65,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "front_mm": 700,
+      "side_mm": 400,
+      "rough_in_mm": 300
+    },
+    "is_active": true
+  },
+  {
+    "id": "t2",
+    "sku": "K-3814-IN-CP",
+    "name": "Cimarron Compact Toilet",
+    "category": "toilet",
+    "family": "Cimarron",
+    "collection": "Cimarron",
+    "width_mm": 370,
+    "depth_mm": 630,
+    "height_mm": 780,
+    "price_inr": 28900,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 4.2,
+    "finish": "white",
+    "style_tags": [
+      "classic",
+      "compact",
+      "eco"
+    ],
+    "sustainability_score": 70,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "front_mm": 600,
+      "side_mm": 400,
+      "rough_in_mm": 300
+    },
+    "is_active": true
+  },
+  {
+    "id": "t3",
+    "sku": "K-6299-IN-0",
+    "name": "Veil Wall-Hung Toilet",
+    "category": "toilet",
+    "family": "Veil",
+    "collection": "Veil",
+    "width_mm": 355,
+    "depth_mm": 560,
+    "height_mm": 400,
+    "price_inr": 68000,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": 3.0,
+    "finish": "white",
+    "style_tags": [
+      "modern",
+      "minimal",
+      "eco"
+    ],
+    "sustainability_score": 88,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "front_mm": 600,
+      "side_mm": 400
+    },
+    "is_active": true
+  },
+  {
+    "id": "t4",
+    "sku": "K-3493-IN-0",
+    "name": "Highline Classic Toilet",
+    "category": "toilet",
+    "family": "Highline",
+    "collection": "Highline",
+    "width_mm": 390,
+    "depth_mm": 680,
+    "height_mm": 790,
+    "price_inr": 19800,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 6.0,
+    "finish": "white",
+    "style_tags": [
+      "classic",
+      "budget"
+    ],
+    "sustainability_score": 40,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "front_mm": 650,
+      "side_mm": 400,
+      "rough_in_mm": 300
+    },
+    "is_active": true
+  },
+  {
+    "id": "t5",
+    "sku": "K-3901-IN-0",
+    "name": "San Souci One-Piece Toilet",
+    "category": "toilet",
+    "family": "San Souci",
+    "collection": "San Souci",
+    "width_mm": 385,
+    "depth_mm": 710,
+    "height_mm": 750,
+    "price_inr": 45500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 4.0,
+    "finish": "white",
+    "style_tags": [
+      "modern",
+      "elegant",
+      "eco"
+    ],
+    "sustainability_score": 72,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "front_mm": 680,
+      "side_mm": 400,
+      "rough_in_mm": 300
+    },
+    "is_active": true
+  },
+  {
+    "id": "v1",
+    "sku": "K-99640T-IN",
+    "name": "Kelston 900mm Vanity",
+    "category": "vanity",
+    "family": "Kelston",
+    "collection": "Kelston",
+    "width_mm": 900,
+    "depth_mm": 480,
+    "height_mm": 850,
+    "price_inr": 41000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "white oak",
+    "style_tags": [
+      "modern",
+      "warm"
+    ],
+    "sustainability_score": 55,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "approach_mm": 760,
+      "hole_count": 3
+    },
+    "is_active": true
+  },
+  {
+    "id": "v2",
+    "sku": "K-99640T-IN-SM",
+    "name": "Kelston 600mm Vanity",
+    "category": "vanity",
+    "family": "Kelston",
+    "collection": "Kelston",
+    "width_mm": 600,
+    "depth_mm": 460,
+    "height_mm": 850,
+    "price_inr": 29500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "white oak",
+    "style_tags": [
+      "modern",
+      "compact"
+    ],
+    "sustainability_score": 55,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "approach_mm": 700,
+      "hole_count": 3
+    },
+    "is_active": true
+  },
+  {
+    "id": "v3",
+    "sku": "K-2833-IN",
+    "name": "Iron Plains Wall-Mount Basin",
+    "category": "vanity",
+    "family": "Iron Plains",
+    "collection": "Iron Plains",
+    "width_mm": 500,
+    "depth_mm": 400,
+    "height_mm": 150,
+    "price_inr": 18500,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "white",
+    "style_tags": [
+      "industrial",
+      "compact"
+    ],
+    "sustainability_score": 60,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "approach_mm": 600,
+      "hole_count": 1
+    },
+    "is_active": true
+  },
+  {
+    "id": "v4",
+    "sku": "K-99741T-IN",
+    "name": "Persuade 750mm Vanity",
+    "category": "vanity",
+    "family": "Persuade",
+    "collection": "Persuade",
+    "width_mm": 750,
+    "depth_mm": 470,
+    "height_mm": 850,
+    "price_inr": 35500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "walnut",
+    "style_tags": [
+      "transitional",
+      "warm"
+    ],
+    "sustainability_score": 50,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "approach_mm": 720,
+      "hole_count": 1
+    },
+    "is_active": true
+  },
+  {
+    "id": "v5",
+    "sku": "K-99900T-IN",
+    "name": "Jute 1200mm Double Vanity",
+    "category": "vanity",
+    "family": "Jute",
+    "collection": "Jute",
+    "width_mm": 1200,
+    "depth_mm": 500,
+    "height_mm": 850,
+    "price_inr": 58000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "white oak",
+    "style_tags": [
+      "modern",
+      "family"
+    ],
+    "sustainability_score": 48,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "approach_mm": 900,
+      "hole_count": 3
+    },
+    "is_active": true
+  },
+  {
+    "id": "v6",
+    "sku": "K-2831-IN",
+    "name": "Tresham Pedestal Sink",
+    "category": "vanity",
+    "family": "Tresham",
+    "collection": "Tresham",
+    "width_mm": 450,
+    "depth_mm": 380,
+    "height_mm": 850,
+    "price_inr": 15500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "white",
+    "style_tags": [
+      "classic",
+      "compact"
+    ],
+    "sustainability_score": 58,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "approach_mm": 600,
+      "hole_count": 1
+    },
+    "is_active": true
+  },
+  {
+    "id": "f1",
+    "sku": "K-R37026-4D",
+    "name": "Alteo Widespread Faucet 8in",
+    "category": "faucet",
+    "family": "Alteo",
+    "collection": "Alteo",
+    "width_mm": 200,
+    "depth_mm": 150,
+    "height_mm": 160,
+    "price_inr": 15200,
+    "currency": "INR",
+    "install_type": "recessed",
+    "water_use": 5.7,
+    "finish": "chrome",
+    "style_tags": [
+      "modern"
+    ],
+    "sustainability_score": 62,
+    "requires_supply": true,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "hole_spread_mm": 200,
+      "hole_count": 3
+    },
+    "is_active": true
+  },
+  {
+    "id": "f2",
+    "sku": "K-R99760-4",
+    "name": "Composed Single-Hole Faucet",
+    "category": "faucet",
+    "family": "Composed",
+    "collection": "Composed",
+    "width_mm": 60,
+    "depth_mm": 150,
+    "height_mm": 180,
+    "price_inr": 11800,
+    "currency": "INR",
+    "install_type": "recessed",
+    "water_use": 4.5,
+    "finish": "matte black",
+    "style_tags": [
+      "modern",
+      "minimal",
+      "eco"
+    ],
+    "sustainability_score": 75,
+    "requires_supply": true,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "hole_spread_mm": 0,
+      "hole_count": 1
+    },
+    "is_active": true
+  },
+  {
+    "id": "f3",
+    "sku": "K-72218-4",
+    "name": "Bancroft Widespread Faucet 8in",
+    "category": "faucet",
+    "family": "Bancroft",
+    "collection": "Bancroft",
+    "width_mm": 200,
+    "depth_mm": 150,
+    "height_mm": 220,
+    "price_inr": 22000,
+    "currency": "INR",
+    "install_type": "recessed",
+    "water_use": 5.7,
+    "finish": "polished nickel",
+    "style_tags": [
+      "classic"
+    ],
+    "sustainability_score": 58,
+    "requires_supply": true,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "hole_spread_mm": 200,
+      "hole_count": 3
+    },
+    "is_active": true
+  },
+  {
+    "id": "f4",
+    "sku": "K-R37025-9",
+    "name": "Purist Single-Hole Faucet",
+    "category": "faucet",
+    "family": "Purist",
+    "collection": "Purist",
+    "width_mm": 55,
+    "depth_mm": 150,
+    "height_mm": 240,
+    "price_inr": 26500,
+    "currency": "INR",
+    "install_type": "recessed",
+    "water_use": 4.5,
+    "finish": "brushed gold",
+    "style_tags": [
+      "luxury",
+      "minimal",
+      "eco"
+    ],
+    "sustainability_score": 70,
+    "requires_supply": true,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "hole_spread_mm": 0,
+      "hole_count": 1
+    },
+    "is_active": true
+  },
+  {
+    "id": "f5",
+    "sku": "K-R72767-4",
+    "name": "Forte Centerset Faucet",
+    "category": "faucet",
+    "family": "Forte",
+    "collection": "Forte",
+    "width_mm": 100,
+    "depth_mm": 150,
+    "height_mm": 170,
+    "price_inr": 9800,
+    "currency": "INR",
+    "install_type": "recessed",
+    "water_use": 5.7,
+    "finish": "chrome",
+    "style_tags": [
+      "classic",
+      "budget"
+    ],
+    "sustainability_score": 55,
+    "requires_supply": true,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "hole_spread_mm": 100,
+      "hole_count": 3
+    },
+    "is_active": true
+  },
+  {
+    "id": "f6",
+    "sku": "K-R23286-4",
+    "name": "Components Bridge Faucet",
+    "category": "faucet",
+    "family": "Components",
+    "collection": "Components",
+    "width_mm": 220,
+    "depth_mm": 150,
+    "height_mm": 230,
+    "price_inr": 31000,
+    "currency": "INR",
+    "install_type": "recessed",
+    "water_use": 5.7,
+    "finish": "brushed brass",
+    "style_tags": [
+      "transitional",
+      "luxury"
+    ],
+    "sustainability_score": 52,
+    "requires_supply": true,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "hole_spread_mm": 200,
+      "hole_count": 3
+    },
+    "is_active": true
+  },
+  {
+    "id": "s1",
+    "sku": "K-706010-IN",
+    "name": "Elmbrook 900 Shower Base",
+    "category": "shower",
+    "family": "Elmbrook",
+    "collection": "Elmbrook",
+    "width_mm": 900,
+    "depth_mm": 900,
+    "height_mm": 2000,
+    "price_inr": 58000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 9.5,
+    "finish": "chrome trim",
+    "style_tags": [
+      "modern"
+    ],
+    "sustainability_score": 50,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "interior_min_mm": 900
+    },
+    "is_active": true
+  },
+  {
+    "id": "s2",
+    "sku": "K-706010-IN-CP",
+    "name": "Elmbrook 800 Compact Shower",
+    "category": "shower",
+    "family": "Elmbrook",
+    "collection": "Elmbrook",
+    "width_mm": 800,
+    "depth_mm": 800,
+    "height_mm": 2000,
+    "price_inr": 49500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 8.3,
+    "finish": "chrome trim",
+    "style_tags": [
+      "modern",
+      "compact",
+      "eco"
+    ],
+    "sustainability_score": 68,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "interior_min_mm": 800
+    },
+    "is_active": true
+  },
+  {
+    "id": "s3",
+    "sku": "K-9107-IN",
+    "name": "Awaken Rain Shower Head System",
+    "category": "shower",
+    "family": "Awaken",
+    "collection": "Awaken",
+    "width_mm": 900,
+    "depth_mm": 900,
+    "height_mm": 2400,
+    "price_inr": 95000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 11.4,
+    "finish": "matte black",
+    "style_tags": [
+      "modern",
+      "luxury",
+      "rain shower"
+    ],
+    "sustainability_score": 35,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "interior_min_mm": 900
+    },
+    "is_active": true
+  },
+  {
+    "id": "s4",
+    "sku": "K-706011-IN",
+    "name": "Aptos 900 Corner Shower Base",
+    "category": "shower",
+    "family": "Aptos",
+    "collection": "Aptos",
+    "width_mm": 900,
+    "depth_mm": 900,
+    "height_mm": 2000,
+    "price_inr": 61500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 9.0,
+    "finish": "brushed nickel trim",
+    "style_tags": [
+      "modern",
+      "corner"
+    ],
+    "sustainability_score": 55,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "interior_min_mm": 900
+    },
+    "is_active": true
+  },
+  {
+    "id": "s5",
+    "sku": "K-8032-IN",
+    "name": "WaterTile Round Body Sprays",
+    "category": "shower",
+    "family": "WaterTile",
+    "collection": "WaterTile",
+    "width_mm": 900,
+    "depth_mm": 900,
+    "height_mm": 2400,
+    "price_inr": 112000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 13.0,
+    "finish": "polished chrome",
+    "style_tags": [
+      "luxury",
+      "spa"
+    ],
+    "sustainability_score": 25,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "interior_min_mm": 900
+    },
+    "is_active": true
+  },
+  {
+    "id": "s6",
+    "sku": "K-706012-IN",
+    "name": "Elmbrook 1000 Shower Base",
+    "category": "shower",
+    "family": "Elmbrook",
+    "collection": "Elmbrook",
+    "width_mm": 1000,
+    "depth_mm": 1000,
+    "height_mm": 2000,
+    "price_inr": 67000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 9.5,
+    "finish": "chrome trim",
+    "style_tags": [
+      "modern",
+      "spacious"
+    ],
+    "sustainability_score": 48,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {
+      "interior_min_mm": 900
+    },
+    "is_active": true
+  },
+  {
+    "id": "b1",
+    "sku": "K-K-26746-IN",
+    "name": "Rekindle 1500 Alcove Bath",
+    "category": "bath",
+    "family": "Rekindle",
+    "collection": "Rekindle",
+    "width_mm": 1500,
+    "depth_mm": 750,
+    "height_mm": 550,
+    "price_inr": 62000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 150,
+    "finish": "white acrylic",
+    "style_tags": [
+      "classic",
+      "family"
+    ],
+    "sustainability_score": 30,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "b2",
+    "sku": "K-6364-IN",
+    "name": "Underscore 1700 Soaking Tub",
+    "category": "bath",
+    "family": "Underscore",
+    "collection": "Underscore",
+    "width_mm": 1700,
+    "depth_mm": 800,
+    "height_mm": 580,
+    "price_inr": 98000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 210,
+    "finish": "white acrylic",
+    "style_tags": [
+      "luxury",
+      "spa"
+    ],
+    "sustainability_score": 22,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "b3",
+    "sku": "K-1122-IN",
+    "name": "Archer 1500 Compact Tub",
+    "category": "bath",
+    "family": "Archer",
+    "collection": "Archer",
+    "width_mm": 1500,
+    "depth_mm": 700,
+    "height_mm": 520,
+    "price_inr": 44000,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": 140,
+    "finish": "white acrylic",
+    "style_tags": [
+      "classic",
+      "compact",
+      "budget"
+    ],
+    "sustainability_score": 38,
+    "requires_supply": true,
+    "requires_drain": true,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "st1",
+    "sku": "K-99590-IN",
+    "name": "Poplin Tall Linen Cabinet",
+    "category": "storage",
+    "family": "Poplin",
+    "collection": "Poplin",
+    "width_mm": 400,
+    "depth_mm": 350,
+    "height_mm": 1600,
+    "price_inr": 27500,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "white oak",
+    "style_tags": [
+      "modern",
+      "storage"
+    ],
+    "sustainability_score": 50,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "st2",
+    "sku": "K-99590-IN-SM",
+    "name": "Poplin Wall Shelf Unit",
+    "category": "storage",
+    "family": "Poplin",
+    "collection": "Poplin",
+    "width_mm": 600,
+    "depth_mm": 200,
+    "height_mm": 300,
+    "price_inr": 9800,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "white oak",
+    "style_tags": [
+      "modern",
+      "compact",
+      "storage"
+    ],
+    "sustainability_score": 55,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "st3",
+    "sku": "K-99591-IN",
+    "name": "Poplin Floating Drawer Unit",
+    "category": "storage",
+    "family": "Poplin",
+    "collection": "Poplin",
+    "width_mm": 700,
+    "depth_mm": 300,
+    "height_mm": 250,
+    "price_inr": 19500,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "walnut",
+    "style_tags": [
+      "transitional",
+      "storage"
+    ],
+    "sustainability_score": 52,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "st4",
+    "sku": "K-99245-IN",
+    "name": "Verdera Mirrored Medicine Cabinet",
+    "category": "storage",
+    "family": "Verdera",
+    "collection": "Verdera",
+    "width_mm": 500,
+    "depth_mm": 120,
+    "height_mm": 700,
+    "price_inr": 21500,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "mirror",
+    "style_tags": [
+      "modern",
+      "storage"
+    ],
+    "sustainability_score": 60,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "st5",
+    "sku": "K-99592-IN",
+    "name": "Poplin Under-Sink Organizer",
+    "category": "storage",
+    "family": "Poplin",
+    "collection": "Poplin",
+    "width_mm": 550,
+    "depth_mm": 400,
+    "height_mm": 200,
+    "price_inr": 6200,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "white oak",
+    "style_tags": [
+      "modern",
+      "compact",
+      "budget"
+    ],
+    "sustainability_score": 58,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "l1",
+    "sku": "K-71120-IN",
+    "name": "Parallel LED Vanity Light",
+    "category": "lighting",
+    "family": "Parallel",
+    "collection": "Parallel",
+    "width_mm": 900,
+    "depth_mm": 100,
+    "height_mm": 100,
+    "price_inr": 8200,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "matte black",
+    "style_tags": [
+      "modern",
+      "eco"
+    ],
+    "sustainability_score": 80,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "l2",
+    "sku": "K-71121-IN",
+    "name": "Choreograph LED Mirror Light Strip",
+    "category": "lighting",
+    "family": "Choreograph",
+    "collection": "Choreograph",
+    "width_mm": 600,
+    "depth_mm": 50,
+    "height_mm": 50,
+    "price_inr": 6400,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "chrome",
+    "style_tags": [
+      "modern",
+      "minimal",
+      "eco"
+    ],
+    "sustainability_score": 82,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "l3",
+    "sku": "K-71122-IN",
+    "name": "Occasion Sconce Pair",
+    "category": "lighting",
+    "family": "Occasion",
+    "collection": "Occasion",
+    "width_mm": 200,
+    "depth_mm": 100,
+    "height_mm": 250,
+    "price_inr": 5200,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "polished nickel",
+    "style_tags": [
+      "classic",
+      "budget"
+    ],
+    "sustainability_score": 45,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "a1",
+    "sku": "K-27290-IN",
+    "name": "Occasion Towel Bar Set",
+    "category": "accessory",
+    "family": "Occasion",
+    "collection": "Occasion",
+    "width_mm": 600,
+    "depth_mm": 80,
+    "height_mm": 80,
+    "price_inr": 4200,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "chrome",
+    "style_tags": [
+      "classic"
+    ],
+    "sustainability_score": 60,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "a2",
+    "sku": "K-FLANGE-300",
+    "name": "Wax Ring & Flange Kit (300mm)",
+    "category": "accessory",
+    "family": "Install Kit",
+    "collection": "Install Kit",
+    "width_mm": 150,
+    "depth_mm": 150,
+    "height_mm": 50,
+    "price_inr": 850,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "n/a",
+    "style_tags": [
+      "install"
+    ],
+    "sustainability_score": 50,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "rough_in_mm": 300
+    },
+    "is_active": true
+  },
+  {
+    "id": "a3",
+    "sku": "K-FLANGE-400",
+    "name": "Wax Ring & Flange Kit (400mm)",
+    "category": "accessory",
+    "family": "Install Kit",
+    "collection": "Install Kit",
+    "width_mm": 150,
+    "depth_mm": 150,
+    "height_mm": 50,
+    "price_inr": 950,
+    "currency": "INR",
+    "install_type": "floor",
+    "water_use": null,
+    "finish": "n/a",
+    "style_tags": [
+      "install"
+    ],
+    "sustainability_score": 50,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {
+      "rough_in_mm": 400
+    },
+    "is_active": true
+  },
+  {
+    "id": "a4",
+    "sku": "K-WC-100",
+    "name": "In-Wall Carrier System",
+    "category": "accessory",
+    "family": "Install Kit",
+    "collection": "Install Kit",
+    "width_mm": 400,
+    "depth_mm": 150,
+    "height_mm": 1000,
+    "price_inr": 22000,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "n/a",
+    "style_tags": [
+      "install"
+    ],
+    "sustainability_score": 50,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  },
+  {
+    "id": "a5",
+    "sku": "K-27291-IN",
+    "name": "Occasion Robe Hook",
+    "category": "accessory",
+    "family": "Occasion",
+    "collection": "Occasion",
+    "width_mm": 60,
+    "depth_mm": 60,
+    "height_mm": 60,
+    "price_inr": 1200,
+    "currency": "INR",
+    "install_type": "wall",
+    "water_use": null,
+    "finish": "chrome",
+    "style_tags": [
+      "classic",
+      "budget"
+    ],
+    "sustainability_score": 60,
+    "requires_supply": false,
+    "requires_drain": false,
+    "clearance_overrides": {},
+    "is_active": true
+  }
+]
